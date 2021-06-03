@@ -54,4 +54,3 @@ float mc_pi(int a){
    return pi;
 }
 
-
